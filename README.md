@@ -1,23 +1,22 @@
-# `@exu3`'s Prettier Configurations
+# `@exu3/prettier-config`
 
 ## Install
 
 ```sh
-yarn add -D @exu3/prettier-config
-# or
-npm install @exu3/prettier-config --save-dev
+yarn add --dev @exu3/prettier-config
 ```
 
 then add to `package.json`:
 
 ```json
 {
+  // ...
   "prettier": "@exu3/prettier-config"
 }
 ```
 
 ---
 
-[prettier.io](https://prettier.io/)
+`@exu3`'s [Prettier](https://prettier.io/) config.
 
 Inspired by [@azz](https://github.com/azz/prettier-config) & [@garyhtou](https://github.com/garyhtou/prettier-config)
