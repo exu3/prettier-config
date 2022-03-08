@@ -1,0 +1,19 @@
+{
+  "name": "@exu3/prettier-config",
+  "version": "1.0.0",
+  "description": "@exu3's Prettier configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exu3/prettier-config.git"
+  },
+  "author": "Ella <git@ella.cx> (https://ella.cx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exu3/prettier-config/issues"
+  },
+  "homepage": "https://github.com/exu3/prettier-config#readme"
+}
